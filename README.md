@@ -4,3 +4,5 @@
 ![](https://img.shields.io/github/downloads/Yourun-Proger/CalculatorApp/total)
 # CalculatorApp
 Easy Python App -  Calculator with Tkinter
+
+Calculator for Windows. It is not very beautiful and sophisticated, but for me this first experience is very important)
