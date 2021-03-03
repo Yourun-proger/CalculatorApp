@@ -6,3 +6,5 @@
 Easy Python App -  Calculator with Tkinter
 
 Calculator for Windows. It is not very beautiful and sophisticated, but for me this first experience is very important)
+
+Download [here](https://github.com/Yourun-proger/CalculatorApp/releases/download/v1.0/calculator.exe)
