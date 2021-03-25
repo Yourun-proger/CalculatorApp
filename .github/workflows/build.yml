@@ -11,4 +11,4 @@ jobs:
         architecture: 'x64'
     - run: |
         python -m pip install pyinstaller
-        pyinstaller -f -w --noconsole calculator.py
+        pyinstaller -w --noconsole calculator.py
