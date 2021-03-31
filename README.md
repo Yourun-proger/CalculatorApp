@@ -1,5 +1,4 @@
-![](https://img.shields.io/github/workflow/status/yourun-proger/calculatorapp/Build/main)
-![](https://github.com/Yourun-proger/CalculatorApp/actions/workflows/build.yml/badge.svg)
+[![](https://img.shields.io/github/workflow/status/yourun-proger/calculatorapp/Build/main)](https://github.com/Yourun-proger/CalculatorApp/actions/workflows/build.yml)
 ![](https://img.shields.io/github/release-date/YOurun-Proger/CalculatorApp)
 ![](https://img.shields.io/github/v/release/Yourun-Proger/CalculatorApp)
 ![](https://img.shields.io/github/v/tag/Yourun-Proger/CalculatorApp)
